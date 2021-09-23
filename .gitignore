@@ -1,0 +1,9 @@
+# Ignorar los que empiezan por a0
+a0*.txt
+
+# Ignorar los que tengan dos números
+a??.txt
+
+# Ignorar los que pertenezcan al conjunto, es decir el 1 y 3
+a[13].txt
+
